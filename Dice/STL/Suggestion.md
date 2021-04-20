@@ -1,2 +1,1 @@
-#STL
 i suggest you printig those dice lying down on a face, this will ruin a bit the face you decide to print on
